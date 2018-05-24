@@ -1,0 +1,20 @@
+{
+  "name": "@bcc/queue",
+  "version": "0.9.0",
+  "description": "concurrent queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:bccgmbh/queue.git"
+  },
+  "keywords": ["queue", "concurrent"],
+  "author": "Blockchain Consulting GmbH",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^11.0.1",
+    "tape": "^4.9.0"
+  }
+}
